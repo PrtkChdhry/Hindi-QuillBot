@@ -6,3 +6,7 @@ combining deep learning-based NLP frameworks with a user friendly interface, thi
 high-quality Hindi language text processing, making it an invaluable tool for students, professionals, and content creators in Hindi-speaking communities. 
 
 ![image](https://github.com/user-attachments/assets/249a9195-9509-49de-9f85-3d8796b4454b)
+
+
+Workflow ---
+![HindiQuillbot drawio](https://github.com/user-attachments/assets/ff6ae43a-e939-49d7-bf71-4c9477a63184)
